@@ -9,7 +9,7 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "vite build",
+    "build": "node -v && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
